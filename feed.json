@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://josephchen.micro.blog/2025/08/27/kaffee-allez-sintjoriskaai-a-gent.html",
+				
+				"content_html": "<p>Kaffee Allez\nSint-Joriskaai 6a, 9000 Gent, Belgium</p>\n<p>first cafe post i believe despite it being at least 15 cafes since i created this category. but better late than never.</p>\n<p>very cute cafe. right out front of a river and bridge. group of bikers gathered already at 8 in the morning out front. seems like a very cycling x coffee spot with bunch of social rides and cycling workshops being organized here! lots of indoor bike parking against the walls, too! as for coffee and pastries, very yums. i like how the drinks come with a little biscuit each!!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Kaffee Allez\nSint-Joriskaai 6a, 9000 Gent, Belgium\n\nfirst cafe post i believe despite it being at least 15 cafes since i created this category. but better late than never. \n\nvery cute cafe. right out front of a river and bridge. group of bikers gathered already at 8 in the morning out front. seems like a very cycling x coffee spot with bunch of social rides and cycling workshops being organized here! lots of indoor bike parking against the walls, too! as for coffee and pastries, very yums. i like how the drinks come with a little biscuit each!!\n\n<img src=\"uploads/2025/7aca1e9f29.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/9db56d2469.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/d93a2d9002.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/79772d6d56.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/85d3f7a05c.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/902507051a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/4c946d312b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-08-27T00:10:26-07:00",
+				"url": "https://josephchen.micro.blog/2025/08/27/kaffee-allez-sintjoriskaai-a-gent.html",
+				"tags": ["coffee"]
+			},
+			{
 				"id": "http://josephchen.micro.blog/2025/08/25/091214.html",
 				
 				"content_html": "<p><a href=\"https://themeasureofaplan.com/wealth-map/\">https://themeasureofaplan.com/wealth-map/</a> is a cool visualization/data tool about differences in (iirc) cost-of-living, mean income (well, gross national income % country population), and purchasing power. not sure if the income calculation is the best way to do so as it includes income that isn&rsquo;t wage-related, so doesn&rsquo;t paint the best picture of what the average joe is earning. like with all data, take it with a grain of salt and thoughtfulness.</p>\n<p>it is put together by just a regular joe, so not sure how long data will be updated for or functionality will remain. found it when looking into where im at (london) and trying to understand how people can afford to live here. it seems so so expensive for the relative salary/income that i assumed was average. did some research and still confused. seems like the people out and about are likely wealthy already, tourists (thus less cost-considerate), or treating themselves. could be wrong.</p>\n",
@@ -45,7 +54,7 @@
 				"id": "http://josephchen.micro.blog/2025/07/21/meal-prepping-for-the-second.html",
 				
 				"content_html": "<p>meal prepping for the second week of full-time work!! gotta make some veggies but it’s midnight already so it’s time to zzz</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "meal prepping for the second week of full-time work!! gotta make some veggies but it’s midnight already so it’s time to zzz\n\n<img src=\"uploads/2025/3d66292009.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "meal prepping for the second week of full-time work!! gotta make some veggies but it’s midnight already so it’s time to zzz\n\n<img src=\"https://josephchen.micro.blog/uploads/2025/3d66292009.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-20T22:02:24-07:00",
 				"url": "https://josephchen.micro.blog/2025/07/21/meal-prepping-for-the-second.html",
 				"tags": ["adulting","food"]
@@ -54,7 +63,7 @@
 				"id": "http://josephchen.micro.blog/2025/07/21/honestly-chicago-summer-is-a.html",
 				
 				"content_html": "<p>honestly, chicago summer is a vibe</p>\n<p>shoutout Oam’s place @ 73 East Lake, what a spot</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "honestly, chicago summer is a vibe\n\nshoutout Oam’s place @ 73 East Lake, what a spot\n\n<img src=\"uploads/2025/b99afd767d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/fc16629043.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "honestly, chicago summer is a vibe\n\nshoutout Oam’s place @ 73 East Lake, what a spot\n\n<img src=\"https://josephchen.micro.blog/uploads/2025/b99afd767d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://josephchen.micro.blog/uploads/2025/fc16629043.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-07-20T22:01:12-07:00",
 				"url": "https://josephchen.micro.blog/2025/07/21/honestly-chicago-summer-is-a.html",
 				"tags": ["life","cities"]
@@ -507,7 +516,7 @@
 				"content_text": "[www.app.traveltime.com](www.app.traveltime.com) is a dope tool to check reachable areas via given time of day / mode of transportation. using it right now to see what areas are reachable to work w/in 30 min!\n",
 				"date_published": "2025-03-11T17:39:19-07:00",
 				"url": "https://josephchen.micro.blog/2025/03/11/wwwapptraveltimecom-is-a-dope-tool.html",
-				"tags": ["adulting","cities"]
+				"tags": ["tech","adulting","cities"]
 			},
 			{
 				"id": "http://josephchen.micro.blog/2025/03/11/wwwhoodmapscom-is-another-really-cool.html",
@@ -516,7 +525,7 @@
 				"content_text": "[www.hoodmaps.com](www.hoodmaps.com) is another really cool map, but it's instead crowdsourced and vibe-based where people tag areas w/ stereotypes and local knowledge like \"tech bros,\" \"warzone,\" \"run and don't look back,\" \"smart college students,\" etc. it's more of like a social/cultural snapshot of how ppl percieve different neighborhoods.\n",
 				"date_published": "2025-03-11T12:52:18-07:00",
 				"url": "https://josephchen.micro.blog/2025/03/11/wwwhoodmapscom-is-another-really-cool.html",
-				"tags": ["cities"]
+				"tags": ["tech","cities"]
 			},
 			{
 				"id": "http://josephchen.micro.blog/2025/03/11/httpswwwopportunityatlasorg-is-a-pretty-cool.html",
@@ -525,7 +534,7 @@
 				"content_text": "[www.opportunityatlas.org](https://www.opportunityatlas.org/) is a pretty cool website to look at how neighborhoods shape economic mobility/life outcomes. really interactive maps & full of research/data. honestly, pretty cool website to gauge where to move to and where certain demographics are living within a city/county.\n",
 				"date_published": "2025-03-11T12:46:25-07:00",
 				"url": "https://josephchen.micro.blog/2025/03/11/httpswwwopportunityatlasorg-is-a-pretty-cool.html",
-				"tags": ["cities"]
+				"tags": ["tech","cities"]
 			},
 			{
 				"id": "http://josephchen.micro.blog/2025/03/10/mistaken-assignment-date-due-later.html",
